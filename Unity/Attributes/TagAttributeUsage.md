@@ -1,6 +1,6 @@
 ## Usage
 
 ```
-[Tag]<br>
+[Tag]
 public string tagName;
 ```
